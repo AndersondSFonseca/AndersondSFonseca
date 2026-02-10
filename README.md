@@ -6,7 +6,7 @@
 - ✉️ E-mail pessoal: ande93@gmail.com
 ##
 
-<div align="center" style="display: inline_block"><br>
+<div align="center" style="display: inline_block">
   <h3 align="center">Ferramentas e linguagens:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" title="Python" />
   <img width="12" />
