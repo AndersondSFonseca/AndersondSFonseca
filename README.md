@@ -1,14 +1,14 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
-</div>
+<h1 align="left">Olá 👋! Meu nome é Anderson</h1>
 
 ###
 
-<h2 align="left">Olá 👋! Meu nome é Anderson</h2>
+<br clear="both">
+
+<p align="left">👨🏾‍💻 Atualmente atuo na **Tecban**, a maior empresa de tecnologia bancária do Brasil, trabalhando com **Python**, **automação** e **dados**.  <br>💡 Tenho experiência em desenvolver soluções que otimizam processos e transformam informações em insights estratégicos.  <br>🚀 Meu foco é unir tecnologia e inovação para gerar valor e eficiência.</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
@@ -30,7 +30,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/andersonsfonseca/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
