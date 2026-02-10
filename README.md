@@ -1,14 +1,13 @@
-<h1 align="left">Olá 👋! Meu nome é Anderson</h1>
+## Olá, eu sou o Anderson Santos!
 
-###
+- 👨🏾‍💻 Atualmente trabalho na **Tecban**, a maior empresa de tecnologia bancária do Brasil, trabalhando com **Python**, **automação** e **dados**.
+- 💡 Tenho experiência em desenvolver soluções que otimizam processos e transformam informações em insights estratégicos.
+- 🚀 Meu foco é unir tecnologia e inovação para gerar valor e eficiência.
+- ✉️ E-mail pessoal: ande93@gmail.com
+##
 
-<br clear="both">
-
-<p align="left">👨🏾‍💻 Atualmente atuo na **Tecban**, a maior empresa de tecnologia bancária do Brasil, trabalhando com **Python**, **automação** e **dados**.  <br>💡 Tenho experiência em desenvolver soluções que otimizam processos e transformam informações em insights estratégicos.  <br>🚀 Meu foco é unir tecnologia e inovação para gerar valor e eficiência.</p>
-
-###
-
-<div align="center">
+<div align=center style="display: inline_block"><br>
+  <h3 align="center">Ferramentas e linguagens:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
@@ -28,28 +27,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
 </div>
 
-###
+##
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/andersonsfonseca/" target="_blank">
+  <h3 align="center">Minhas redes:</h3>
+  <a href="https://www.linkedin.com/in/andersonsfonseca/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://instagram.com/andersonlke?idsh=MXh3OG5zNXI4dTg5aw==" target="_blank">
+  <a href="https://instagram.com/andersonlke?idsh=MXh3OG5zNXI4dTg5aw==" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="ande93@gmail.com" target="_blank">
+  <a href="https://www.facebook.com/Andersonlke" target="_blank" rel="noopener noreferrer">
+   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+    </a>
+  <a href="ande93@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
 
-###
+##
 
 <img src="https://raw.githubusercontent.com/AndersondSFonseca/AndersondSFonseca/output/snake.svg" alt="Snake animation" />
 
-###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=10&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
-</div>
-
-###
